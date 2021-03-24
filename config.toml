@@ -1,0 +1,15 @@
+baseurl = "https://scors.one/"
+languageCode = "en-us"
+theme = "light-hugo"
+
+title = "Salvatore Scorsone"
+author = "Salvatore Scorsone"
+copyright = "© Copyright 2021 Salvatore Scorsone"
+
+[Params]
+  description = "computer engineer, bitcoiner, aspiring cypherpunk"
+  email = "salvatore@scors.one"
+  github = "salvoscorso"
+  linkedin = "salvatore-scorsone"
+  telegram = "salvoscorso"
+  logo = "/images/logo.png"
