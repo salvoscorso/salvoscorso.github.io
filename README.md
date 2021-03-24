@@ -1,1 +1,1 @@
-scors.one
+salvoscorso.github.io
