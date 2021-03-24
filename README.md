@@ -1,1 +1,0 @@
-scors.one
