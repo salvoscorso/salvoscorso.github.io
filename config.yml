@@ -1,0 +1,126 @@
+baseURL: "https://scors.one"
+title: scors.one
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+#googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    #inifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Salvatore Scorsone
+    description: "computer engineer, bitcoiner, aspiring cypherpunk"
+    author: Me
+    # author: ["Me", "You"] # multiple authors
+    images: ["<link or path of image for opengraph, twitter-cards>"]
+
+    defaultTheme: auto # dark, light
+    #disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    #disableSpecial1stPost: false
+    comments: false
+    hidemeta: false
+    showtoc: false
+    tocopen: false
+
+    # assets:
+    #     # disableHLJS: true # to disable highlight.js
+    #     # disableFingerprinting: true
+    #     favicon: "<link / abs url>"
+    #     favicon16x16: "<link / abs url>"
+    #     favicon32x32: "<link / abs url>"
+    #     apple_touch_icon: "<link / abs url>"
+    #     safari_pinned_tab: "<link / abs url>"
+
+    # label:
+    #     text: "Home"
+    #     icon: /apple-touch-icon.png
+    #     iconHeight: 35
+
+    # profile-mode
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: Salvatore Scorsone
+        subtitle: "computer engineer, bitcoiner, aspiring cypherpunk"
+        imageUrl: "/imm.jpg"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my image
+        buttons:
+            - name: Post
+              url: posts
+            - name: Podcast
+              url: podcasts
+            
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Salvatore Scorsone"
+        Content: computer engineer, bitcoiner, aspiring cypherpunk
+
+    socialIcons:
+        - name: email
+          url: "mailto:salvatore@scors.one"
+        - name: github
+          url: "https://github.com/salvoscorso"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/salvatore-scorsone/"
+        - name: telegram
+          url: "https://www.t.me/salvoscorso"
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: archive
+          name: archive
+          url: /archives/
+          weight: 10
+
+        - identifier: search
+          name: search
+          url: /search/
+          weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+# pygmentsUseClasses: true
+# markup:
+#     highlight:
+#         # anchorLineNos: true
+#         codeFences: true
+#         guessSyntax: true
+#         lineNos: true
+#         style: monokai
