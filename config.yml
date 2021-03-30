@@ -67,7 +67,7 @@ params:
             - name: Post
               url: posts
             - name: Podcast
-              url: podcasts
+              url: podcast
             
 
     # home-info mode
