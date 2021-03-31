@@ -25,6 +25,6 @@ cover:
 
 ---
 
-**A brutal list of the episodes of BIT PoliTO with me**
+**A brutal list, of the episodes with me, of BIT PoliTO Podcast**
 
 Yes, I will add the episodes in future...
