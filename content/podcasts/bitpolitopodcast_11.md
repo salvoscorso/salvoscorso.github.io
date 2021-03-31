@@ -1,9 +1,9 @@
 ---
-title: "Donation!"
-date: 2021-03-24
-# weight: 1
+title: "BIT PoliTO Podcast: 11-Brave, token e dintorni"
+date: 2021-03-31
+#weight:
 # aliases: ["/second"]
-tags: [donation, bitcoin]
+tags: [podcast, bitcoin, polito, bitpolito]
 #author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -24,21 +24,9 @@ cover:
     hidden: true # only hide on current single page
 
 ---
-<!-- ---
-date: 2021-03-24
-linktitle: donation
-menu:
-  main:
-    parent: 
-prev: /post/hello-world
-title: Donation!
-weight: 10
---- -->
 
-**So, you can give me some sats if you want!**
+**11-Brave, token e dintorni**
 
-This is my bitcoin address: ```bc1qdpse3c7l222e73522axcfw38stk28dqmt5rk3g```.
-Yeah, I know... the fee... I'll implement btcpayserver in future so you can will pay me with Lightning Network.  
+I nostri Giorgio, Gabriele e Salvo discutono di Brave, BAT e token ERC20. Brave è un browser ambizioso orientato alla privacy con funzioni particolari, tra cui proprio i suoi token (BAT), che sono un ottimo esempio per spiegare come può avvenire la tokenizzazione in un futuro più o meno prossimo.
 
-{{< figure src="/resources/_gen/images/address.jpg" style="zoom: 25%;" >}}
-
+ {{< youtube VmipyXS0_V4 >}}

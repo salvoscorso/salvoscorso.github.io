@@ -1,9 +1,9 @@
 ---
-title: "Donation!"
-date: 2021-03-24
-# weight: 1
+title: "BIT PoliTO Podcast: 12-Introduzione a Lightning network"
+date: 2021-03-31
+#weight: 1
 # aliases: ["/second"]
-tags: [donation, bitcoin]
+tags: [podcast, bitcoin, polito, bitpolito]
 #author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -24,21 +24,14 @@ cover:
     hidden: true # only hide on current single page
 
 ---
-<!-- ---
-date: 2021-03-24
-linktitle: donation
-menu:
-  main:
-    parent: 
-prev: /post/hello-world
-title: Donation!
-weight: 10
---- -->
 
-**So, you can give me some sats if you want!**
+**12-Introduzione a Lightning network**
 
-This is my bitcoin address: ```bc1qdpse3c7l222e73522axcfw38stk28dqmt5rk3g```.
-Yeah, I know... the fee... I'll implement btcpayserver in future so you can will pay me with Lightning Network.  
+Oggi i nostri Salvo e Ale ci introducono al mondo del Lightning Network, la soluzione di layer superiore di Bitcoin alla maggior parte dei suoi problemi. Vi ricordiamo di vedere il webinar con Fabio di Luigi per saperne di più!
 
-{{< figure src="/resources/_gen/images/address.jpg" style="zoom: 25%;" >}}
 
+Fonti/spunti:
+
+- https://www.youtube.com/watch?v=KF3uQzBpMnw&t=46s
+
+ {{< youtube 2EeUyfNw6Qg >}}

@@ -1,9 +1,9 @@
 ---
-title: "Donation!"
-date: 2021-03-24
-# weight: 1
+title: "BIT PoliTO Podcast: 13-Token, NFT e dintorni"
+date: 2021-03-31
+#weight: 1
 # aliases: ["/second"]
-tags: [donation, bitcoin]
+tags: [podcast, bitcoin, polito, bitpolito]
 #author: ""
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -24,21 +24,9 @@ cover:
     hidden: true # only hide on current single page
 
 ---
-<!-- ---
-date: 2021-03-24
-linktitle: donation
-menu:
-  main:
-    parent: 
-prev: /post/hello-world
-title: Donation!
-weight: 10
---- -->
 
-**So, you can give me some sats if you want!**
+**13-Token, NFT e dintorni**
 
-This is my bitcoin address: ```bc1qdpse3c7l222e73522axcfw38stk28dqmt5rk3g```.
-Yeah, I know... the fee... I'll implement btcpayserver in future so you can will pay me with Lightning Network.  
+Salvatore e Gabriele ci parlano con occhio critico di token ed nft, oggetti mistici che in queste settimane sono sulla bocca di tutti.  Seguiteci come sempre sui social!
 
-{{< figure src="/resources/_gen/images/address.jpg" style="zoom: 25%;" >}}
-
+ {{< youtube 0SSwyJ2hk0k >}}
