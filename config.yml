@@ -59,7 +59,7 @@ params:
         enabled: true # needs to be explicitly set
         title: Salvatore Scorsone
         subtitle: "computer engineer, bitcoiner, aspiring cypherpunk"
-        imageUrl: "/imm.jpg"
+        imageUrl: "/images/imm.jpg"
         imageWidth: 120
         imageHeight: 120
         imageTitle: my image
