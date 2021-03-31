@@ -27,7 +27,7 @@ params:
     description: "computer engineer, bitcoiner, aspiring cypherpunk"
     author: Me
     # author: ["Me", "You"] # multiple authors
-    images: ["imm.jpg"]
+    #images: ["imm.jpg"]
     defaultTheme: auto # dark, light
     #disableThemeToggle: false
 
@@ -58,7 +58,7 @@ params:
         enabled: true # needs to be explicitly set
         title: Salvatore Scorsone
         subtitle: "computer engineer, bitcoiner, aspiring cypherpunk"
-        imageUrl: "/resources/_gen/images/imm.jpg"
+        #imageUrl: "/resources/_gen/images/imm.jpg"
         imageWidth: 120
         imageHeight: 120
         imageTitle: my image
