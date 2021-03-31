@@ -39,3 +39,5 @@ weight: 10
 
 This is my bitcoin address: ```bc1qdpse3c7l222e73522axcfw38stk28dqmt5rk3g```.
 Yeah, I know... the fee... I'll implement btcpayserver in future so you can will pay me with Lightning Network.  
+<img src="/static/address.jpg" style="zoom: 25%;" />
+![](/static/address.jpg)

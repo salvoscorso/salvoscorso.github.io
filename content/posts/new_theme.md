@@ -37,6 +37,6 @@ weight: 10
 
 **Paper it's cool**
 
-The old theme was vintage yes... but this is cooler. His name is [Papermode](https://github.com/adityatelange/hugo-PaperMod) (for the Hugo framework). Take a look! 
+The old theme was vintage yes... but this is cooler. His name is [Papermod](https://github.com/adityatelange/hugo-PaperMod) (for the Hugo framework). Take a look! 
 
 Ah! There is also a new section... [the podcast one](https://scors.one/podcasts). I'll post on it all the episodes where I'll go as a speaker. They are all in Italian at the moment. Cheers!
