@@ -27,11 +27,6 @@ cover:
 
 **12-Introduzione a Lightning network**
 
-Oggi i nostri Salvo e Ale ci introducono al mondo del Lightning Network, la soluzione di layer superiore di Bitcoin alla maggior parte dei suoi problemi. Vi ricordiamo di vedere il webinar con Fabio di Luigi per saperne di più!
-
-
-Fonti/spunti:
-
-- https://www.youtube.com/watch?v=KF3uQzBpMnw&t=46s
+Oggi i nostri Salvo e Ale ci introducono al mondo del Lightning Network, la soluzione di layer superiore di Bitcoin alla maggior parte dei suoi problemi. Vi ricordiamo di vedere il [webinar con Alberto de Luigi](https://www.youtube.com/watch?v=KF3uQzBpMnw) per saperne di più!
 
  {{< youtube 2EeUyfNw6Qg >}}

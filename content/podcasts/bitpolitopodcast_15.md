@@ -1,5 +1,5 @@
 ---
-title: "BIT PoliTO Podcast: 07-Speciale sicurezza e privacy con Riccardo Masutti"
+title: "BIT PoliTO Podcast: 15-Bit meets Bip - Un viaggio nel futuro di bitcoin (con Bitcoin Italia Podcast)"
 date: 2021-03-31
 #weight: 1
 # aliases: ["/second"]
@@ -25,9 +25,8 @@ cover:
 
 ---
 
-**7-Speciale sicurezza e privacy con Riccardo Masutti**
+**15-Bit meets Bip - Un viaggio nel futuro di bitcoin (*con Bitcoin Italia Podcast*)**
 
-I nostri Giorgio e Salvo ospitano Riccardo Masutti, in uno speciale dedicato alla sicurezza ed alla privacy declinate in Bitcoin.
-Trovate BIT PoliTO su Instagram e Twitter (@bitpolito), LinkedIn, YouTube, Spotify, Google Podcasts, Rumble e Bitchute. Condividete il podcast e fateci sapere cosa ne pensate.
+Salvo e Giorgio ospitano da fan sfegatati quali sono Rikki del [Bitcoin Italia Podcast](https://bip.show) in una chiacchierata a tutto tondo sulla filosofia dietro il protocollo Bitcoin e sulle implicazioni future che esso potrà avere.
 
- {{< youtube a24KDt8VRBg >}}
+ {{< youtube 8diJmol6vCg >}}
